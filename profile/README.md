@@ -1,6 +1,6 @@
 # The Harmony Project
 
-Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.org.
+Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.org and you can read our blog at https://harmonydata.org/blog/.
 
 ![Screenshot](/profile/Screenshot-from-2022-10-23-22-56-11.png)
 
