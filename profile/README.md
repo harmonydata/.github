@@ -2,6 +2,8 @@
 
 Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.org.
 
+![Screenshot](Screenshot-from-2022-10-23-22-56-11.png)
+
 ## Harmonising Mental Health Data
 
 Harmony is a data harmonisation project that uses Natural Language Processing to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
