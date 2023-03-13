@@ -4,7 +4,7 @@ Harmony is a tool using AI which allows you to compare items from questionnaires
 
 The source code for Harmony is on Github at https://github.com/harmonydata/harmony.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IxRDAU84ACU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include youtube.html id="IxRDAU84ACU" %}
 
 ## Harmonising Mental Health Data
 
