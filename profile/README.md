@@ -1,6 +1,6 @@
 # The Harmony Project
 
-Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.org and you can read our blog at https://harmonydata.org/blog/.
+Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.ac.uk and you can read our blog at https://harmonydata.org/blog/.
 
 The source code for Harmony is on Github at https://github.com/harmonydata/harmony.
 
@@ -24,23 +24,23 @@ The team at Harmony is made up of:
 
 ## Who to contact about Harmony?
 
-You can contact us at https://harmonydata.org/contact/.
+You can contact us at https://harmonydata.ac.uk/contact/.
 
 ## How do I cite Harmony?
 
-McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M., Wood, T.A., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.org. Ulster University (2022)
+McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M., Wood, T.A., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.ac.uk. Ulster University (2022)
 
 ## Does Harmony store my data?
 
-If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.org/privacy-policy/).
+If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.ac.uk/privacy-policy/).
 
 ## How does Harmony work?
 
-Harmony passes the text of each questionnaire item through a neural network called Sentence-BERT, in order to convert it into a vector. The similarity of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.org/how-does-harmony-work/) and you can even [download and run Harmony’s source code](https://github.com/harmonydata/harmony).
+Harmony passes the text of each questionnaire item through a neural network called Sentence-BERT, in order to convert it into a vector. The similarity of two texts is then measured as the similarity between their vectors. Two identical texts have a similarity of 100% while two completely different texts have a similarity of 0%. You can read more in this [technical blog post](https://harmonydata.ac.uk/how-does-harmony-work/) and you can even [download and run Harmony’s source code](https://github.com/harmonydata/harmony).
 
 ## How reliable is Harmony?
 
-Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood 81%, adulthood 77%. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC 100%. You can read more in [this blog post](https://harmonydata.org/measuring-the-performance-of-nlp-algorithms/).
+Harmony was able to reconstruct the matches of the questionnaire harmonisation tool developed by McElroy et al in 2020 with the following AUC scores: childhood 81%, adulthood 77%. Harmony was able to match the questions of the English and Portuguese GAD-7 instruments with AUC 100%. You can read more in [this blog post](https://harmonydata.ac.uk/measuring-the-performance-of-nlp-algorithms/).
 
 ## What do the numbers mean?
 
