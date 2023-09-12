@@ -15,13 +15,21 @@ The source code for Harmony is on Github at https://github.com/harmonydata/harmo
 
 [![Harmonising questionnaires](/profile/video.jpg)](https://www.youtube.com/watch?v=cEZppTBj1NI "Harmonising questionnaires")
 
+# Looking for source code?
+
+* 🪧 The Harmony app which is running at https://harmonydata.ac.uk/app is in this repo: https://github.com/harmonydata/app.
+* 🪧 The Harmony Python library source code is here: https://github.com/harmonydata/harmony.
+* 🪧 The Harmony R library source code is here: https://github.com/harmonydata/harmony_r.
+* 🪧 The Harmony API source code is here: https://github.com/harmonydata/harmonyapi.
+* 🪧 Finally, the source code of the Harmony static blog at https://harmonydata.ac.uk is in this repo: https://github.com/harmonydata/harmonydata.github.io. It is hosted with [Github Pages](https://pages.github.com/).
+
 ## Harmonising Mental Health Data
 
-Harmony is a data harmonisation project that uses Natural Language Processing to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
+The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
 
 ## Who worked on Harmony?
 
-Harmony is a collaboration project between the University of Ulster, University College London, the Universidade Federal de Santa Maria in Brazil, and Fast Data Science Ltd.
+Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
 
 The team at Harmony is made up of:
 
