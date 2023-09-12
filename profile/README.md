@@ -2,6 +2,11 @@
 
 # The Harmony Project
 
+Follow us on:
+
+<a href="https://www.linkedin.com/company/harmonydata"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/linkedin.svg" alt="Harmony | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/harmonydata/"><img align="left" src="https://raw.githubusercontent.com//harmonydata/.github/main/profile/instagram.svg" alt="Harmony | Instagram" width="21px"/></a>
+
 Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.ac.uk and you can read our blog at https://harmonydata.ac.uk/blog/.
 
 The source code for Harmony is on Github at https://github.com/harmonydata/harmony.
