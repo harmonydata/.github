@@ -1,6 +1,6 @@
 # The Harmony Project
 
-[![The Harmony Project logo](https://raw.githubusercontent.com/harmonydata/brand/main/Logo/PNG/лого фул-05.png)
+![The Harmony Project logo](https://raw.githubusercontent.com/harmonydata/brand/main/Logo/PNG/лого фул-05.png)
 
 Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.ac.uk and you can read our blog at https://harmonydata.ac.uk/blog/.
 
