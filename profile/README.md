@@ -49,7 +49,7 @@ You can contact us at https://harmonydata.ac.uk/contact/.
 
 McElroy, E., Moltrecht, B., Ploubidis, G.B., Scopel Hoffman, M., Wood, T.A., Harmony [Computer software], Version 1.0, accessed at https://app.harmonydata.ac.uk. Ulster University (2022)
 
-## 🥸Does Harmony store my data?
+## 🔢Does Harmony store my data?
 
 If you upload a questionnaire or instrument, Harmony does not store or save it. You can read more on our [Privacy Policy page](https://harmonydata.ac.uk/privacy-policy/).
 
