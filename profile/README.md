@@ -13,8 +13,6 @@
 
 🇷You can run the walkthrough R notebook in Google Colab with a single click: <a href="https://colab.research.google.com/github/harmonydata/experiments/blob/main/Harmony_R_example.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Here is an [example R notebook in R markdown](https://harmonydata.ac.uk/harmony_r_example.nb.html).
-
 # The Harmony Project
 
 Harmony is a tool using AI which allows you to compare items from questionnaires and identify similar content. You can try Harmony at https://app.harmonydata.ac.uk and you can read our blog at https://harmonydata.ac.uk/blog/.
