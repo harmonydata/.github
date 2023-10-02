@@ -39,13 +39,13 @@ The Harmony project is a data harmonisation project that uses [Natural Language 
 
 Harmony is a collaboration project between [Ulster University](https://ulster.ac.uk/), [University College London](https://ucl.ac.uk/), the [Universidade Federal de Santa Maria](https://www.ufsm.br/), and [Fast Data Science](http://fastdatascience.com/).  Harmony is funded by [Wellcome](https://wellcome.org/) as part of the [Wellcome Data Prize in Mental Health](https://wellcome.org/grant-funding/schemes/wellcome-mental-health-data-prize).
 
-The team at Harmony is made up of:
+The core team at Harmony is made up of:
 
-* Bettina Moltrecht, PhD (UCL)
-* Dr Eoin McElroy (University of Ulster)
-* Dr George Ploubidis (UCL)
-* Dr Mauricio Scopel Hoffman (Universidade Federal de Santa Maria, Brazil)
-* Thomas Wood ([Fast Data Science](https://fastdatascience.com))
+* [Dr Bettina Moltrecht, PhD](https://profiles.ucl.ac.uk/60736-bettina-moltrecht) (UCL)
+* [Dr Eoin McElroy](https://www.ulster.ac.uk/staff/e-mcelroy) (University of Ulster)
+* [Dr George Ploubidis](https://profiles.ucl.ac.uk/48171-george-ploubidis) (UCL)
+* [Dr Mauricio Scopel Hoffmann](https://ufsmpublica.ufsm.br/docente/18264) (Universidade Federal de Santa Maria, Brazil)
+* [Thomas Wood](https://freelancedatascientist.net/) ([Fast Data Science](https://fastdatascience.com))
 
 ## ✉️Who to contact about Harmony?
 
