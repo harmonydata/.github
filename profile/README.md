@@ -33,7 +33,7 @@ _Here's a walkthrough video on how you can use Harmony online at harmonydata.ac.
 
 ## Harmony team internal
 
-Information about Harmony's server setup and deployment is [here](https://github.com/harmonydata/harmony_deployment_ulster_private).
+Information about Harmony's server setup and deployment is [in the private repo harmony_deployment_ulster_private](https://github.com/harmonydata/harmony_deployment_ulster_private).
 
 ## 💚 Harmonising Mental Health Data
 
