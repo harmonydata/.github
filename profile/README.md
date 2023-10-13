@@ -31,6 +31,10 @@ _Here's a walkthrough video on how you can use Harmony online at harmonydata.ac.
 * 💻 The Harmony API source code is here: https://github.com/harmonydata/harmonyapi.
 * 📔 Finally, the source code of the Harmony static blog at https://harmonydata.ac.uk is in this repo: https://github.com/harmonydata/harmonydata.github.io. It is hosted with [Github Pages](https://pages.github.com/).
 
+## Harmony team internal
+
+Information about Harmony's server setup and deployment is [here](https://github.com/harmonydata/harmony_deployment_ulster_private).
+
 ## 💚 Harmonising Mental Health Data
 
 The Harmony project is a data harmonisation project that uses [Natural Language Processing](https://fastdatascience.com/guide-natural-language-processing-nlp/) to help researchers make better use of existing data from different studies by supporting them with the harmonisation of various measures and items used in different studies.
