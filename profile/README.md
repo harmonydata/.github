@@ -15,15 +15,15 @@
 [![docker](https://img.shields.io/badge/docker-pull-blue.svg?logo=docker&logoColor=white)](https://hub.docker.com/r/harmonydata/harmonywithtika)
 <!-- badges: end -->
 
-## What does Harmony do?
+# What does Harmony do?
 
 * Psychologists and social scientists often have to match items in different questionnaires, such as "I often feel anxious" and "Feeling nervous, anxious or afraid". 
 * This is called **harmonisation**.
-* Harmonisatin is a time consuming and subjective process.
+* Harmonisation is a time consuming and subjective process.
 * Going through long PDFs of questionnaires and putting the questions into Excel is no fun.
 * Enter [Harmony](https://harmonydata.ac.uk/app), a tool that uses [natural language processing](naturallanguageprocessing.com) and generative AI models to help researchers harmonise questionnaire items, even in different languages.
 
-## Quick start with the code
+# Quick start with the code
 
 💁You can run the walkthrough Python notebook in [Google Colab](https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb) with a single click: <a href="https://colab.research.google.com/github/harmonydata/harmony/blob/main/Harmony_example_walkthrough.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
