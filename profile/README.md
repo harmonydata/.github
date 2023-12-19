@@ -47,6 +47,7 @@ _Here's a walkthrough video on how you can use Harmony online at harmonydata.ac.
 * 👨‍💻 The Harmony Python library source code is here: https://github.com/harmonydata/harmony.
 * 🇷 The Harmony R library source code is here: https://github.com/harmonydata/harmony_r.
 * 💻 The Harmony API source code is here: https://github.com/harmonydata/harmonyapi.
+* 📰 The code for training the PDF extraction is here: https://github.com/harmonydata/pdf-questionnaire-extraction
 * 📔 Finally, the source code of the Harmony static blog at https://harmonydata.ac.uk is in this repo: https://github.com/harmonydata/harmonydata.github.io. It is hosted with [Github Pages](https://pages.github.com/).
 
 ## Harmony team internal
