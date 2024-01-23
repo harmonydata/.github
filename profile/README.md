@@ -21,7 +21,7 @@
 * This is called **harmonisation**.
 * Harmonisation is a time consuming and subjective process.
 * Going through long PDFs of questionnaires and putting the questions into Excel is no fun.
-* Enter [Harmony](https://harmonydata.ac.uk/app), a tool that uses [natural language processing](naturallanguageprocessing.com) and generative AI models to help researchers harmonise questionnaire items, even in different languages.
+* Enter [Harmony](https://harmonydata.ac.uk/app), a tool that uses [natural language processing](https://naturallanguageprocessing.com) and generative AI models to help researchers harmonise questionnaire items, even [in different languages](https://fastdatascience.com/multilingual-natural-language-processing/).
 
 # Quick start with the code
 
