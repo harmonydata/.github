@@ -13,7 +13,11 @@
 [![PyPi downloads](https://static.pepy.tech/personalized-badge/harmonydata?period=total&units=international_system&left_color=grey&right_color=orange&left_text=pip%20downloads)](https://pypi.org/project/harmonydata/)
 [![forks](https://img.shields.io/github/forks/harmonydata/harmony)](https://github.com/harmonydata/harmony/forks)
 [![docker](https://img.shields.io/badge/docker-pull-blue.svg?logo=docker&logoColor=white)](https://hub.docker.com/r/harmonydata/harmonyapi)
+[[!r](https://cranlogs.r-pkg.org/badges/last-month/harmonydata)(https://cran.r-project.org/web/packages/harmonydata/index.html)
+
 <!-- badges: end -->
+
+
 
 You can also join [our Discord server](https://discord.gg/harmonydata)!
 
