@@ -20,7 +20,7 @@
 
 
 
-You can also join [our Discord server](https://discord.gg/harmonydata)!
+You can also join [our Discord server](https://discord.gg/TRFM3dqANu)!
 
 # What does Harmony do?
 
